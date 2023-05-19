@@ -11,4 +11,5 @@ $(() =>{
         let text = item.val()
         list.append($(`<li>${text}</li>`))
     })
+    
 })
